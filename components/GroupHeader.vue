@@ -1,12 +1,12 @@
 <template>
-  <div class="header">
+  <div class="GroupHeader">
     <p></p>
     ああああ
   </div>
 </template>
 
 <style>
-.header {
+.GroupHeader {
   width:100%;
   height: 40px;
   position: fixed;

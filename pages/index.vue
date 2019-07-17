@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <g-header />
+      <group-header />
       <h1 class="title">
         UX Tree
       </h1>
@@ -29,11 +29,11 @@
 </template>
 
 <script>
-import GHeader from '~/components/GHeader.vue'
+import GroupHeader from '~/components/GroupHeader.vue'
 
 export default {
   components: {
-    GHeader
+    GroupHeader
   }
 }
 </script>
