@@ -1,9 +1,9 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <g-header />
       <h1 class="title">
-        jamstack
+        UX Tree
       </h1>
       <h2 class="subtitle">
         My well-made Nuxt.js project
@@ -29,11 +29,11 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import GHeader from '~/components/GHeader.vue'
 
 export default {
   components: {
-    Logo
+    GHeader
   }
 }
 </script>
