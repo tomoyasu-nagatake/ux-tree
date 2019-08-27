@@ -30,3 +30,13 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+.card {
+  &__title {
+    font-size: 30px;
+  }
+  &__text {
+    font-size: 25px;
+  }
+}
+</style>
