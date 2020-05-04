@@ -7,6 +7,7 @@
       :id="post.sys.id"
       :date="post.sys.updatedAt"
     />
+    asssas
   </section>
 </template>
 
